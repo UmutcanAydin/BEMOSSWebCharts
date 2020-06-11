@@ -1,0 +1,11 @@
+  .chartAreaWrapper {
+    overflow-x: scroll;
+    position: relative;
+    width: 100%;
+  }
+
+  .chartAreaWrapper2 {
+
+    position: relative;
+    height: 530px;
+  }
